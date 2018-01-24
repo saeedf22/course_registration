@@ -1,1 +1,1 @@
-# course_registration
+# Our course registration system allows faculty, admin and students to login into a centralized course registration system. Students can enroll to a variety of subjects being offered to them and can also view their academic grades, whereas admin  can choose which courses are about to be offered in particular semester, finally faculty can select which courses are to be taught by them or can upload grades of the past exams.
